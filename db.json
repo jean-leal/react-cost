@@ -10,6 +10,15 @@
       "cost": 0,
       "services": [],
       "id": 1
+    },
+    {
+      "name": "JEAN LEAL DOS SANTOS",
+      "budget": "13122",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      }
+      
     }
   ],
   "categories": [
