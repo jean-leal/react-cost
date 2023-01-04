@@ -18,7 +18,17 @@
         "id": "2",
         "name": "Desenvolvimento"
       }
-      
+    },
+    {
+      "name": "Projeto Novo",
+      "budget": "500",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 2
     }
   ],
   "categories": [
