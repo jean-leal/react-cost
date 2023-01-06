@@ -7,28 +7,9 @@
         "id": "1",
         "name": "Infra"
       },
-      "cost": 300,
+      "cost": 0,
       "id": 2,
-      "services": [
-        {
-          "name": "serviço qualque",
-          "cost": "50",
-          "description": "meu serviço",
-          "id": "802c5c83-cb54-42b2-9da3-4ad4cb599cbb"
-        },
-        {
-          "name": "contrato",
-          "cost": "100",
-          "description": "melhor serviço",
-          "id": "4566a9a7-2cee-4b3f-bd12-90f5eedc7547"
-        },
-        {
-          "name": "novo",
-          "cost": "100",
-          "description": "melhor serviço",
-          "id": "204e450c-3086-43a9-942e-10f04b99d71c"
-        }
-      ]
+      "services": []
     },
     {
       "name": "JEAN LEAL DOS SANTOS",
