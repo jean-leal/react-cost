@@ -2,13 +2,33 @@
   "projects": [
     {
       "name": "Projeto de Infra",
-      "budget": "10000",
+      "budget": "5000",
       "category": {
         "id": "1",
         "name": "Infra"
       },
-      "cost": 5000,
-      "id": 2
+      "cost": 300,
+      "id": 2,
+      "services": [
+        {
+          "name": "serviço qualque",
+          "cost": "50",
+          "description": "meu serviço",
+          "id": "802c5c83-cb54-42b2-9da3-4ad4cb599cbb"
+        },
+        {
+          "name": "contrato",
+          "cost": "100",
+          "description": "melhor serviço",
+          "id": "4566a9a7-2cee-4b3f-bd12-90f5eedc7547"
+        },
+        {
+          "name": "novo",
+          "cost": "100",
+          "description": "melhor serviço",
+          "id": "204e450c-3086-43a9-942e-10f04b99d71c"
+        }
+      ]
     },
     {
       "name": "JEAN LEAL DOS SANTOS",
